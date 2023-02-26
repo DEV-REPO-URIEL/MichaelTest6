@@ -25,6 +25,9 @@
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
   },
+   "leastVulnerablePackageSettings": {    
+    "enabled": "true"  
+  },
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
